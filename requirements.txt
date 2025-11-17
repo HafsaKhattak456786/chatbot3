@@ -1,0 +1,8 @@
+streamlit
+google-generativeai==0.1.0
+fastapi
+uvicorn
+transformers
+torch
+sentencepiece
+python-dotenv
